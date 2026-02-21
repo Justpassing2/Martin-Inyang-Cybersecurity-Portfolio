@@ -1,6 +1,6 @@
 # Splunk Log Analysis Report
 Analyst: Martin Inyang  
-Date: 2026  
+Date: 2025  
 
 ## Purpose
 Analyze system authentication logs to identify abnormal login patterns and suspicious activity.
