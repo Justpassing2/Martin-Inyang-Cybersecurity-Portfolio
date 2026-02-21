@@ -1,7 +1,7 @@
 # Wazuh Alert Investigation Report
 Analyst: Martin Inyang  
 Tool: Wazuh SIEM  
-Date: 2026
+Date: 2025
 
 ## 1. Alert Overview
 **Alert ID:** 53421  
